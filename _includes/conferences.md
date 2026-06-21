@@ -10,8 +10,8 @@
 
   <li style="margin-bottom:10px;">
     <strong>Sep 2025</strong> &nbsp;·&nbsp;
-    <em>Zdrowie i dostęp do systemu opieki zdrowotnej wśród migrantów ekonomicznych i przymusowych z Ukrainy w Polsce</em>
-    <medium style="color:#888;"> (Health and access to the healthcare system among economic and forced migrants from Ukraine in Poland)</medium><br>
+    <em>Zdrowie i dostęp do systemu opieki zdrowotnej wśród migrantów ekonomicznych i przymusowych z Ukrainy w Polsce</em><br>
+    <span style="color:#888;">(Health and access to the healthcare system among economic and forced migrants from Ukraine in Poland)</span><br>
     XIV Conference of the Committee on Migration Research, Polish Academy of Sciences &nbsp;·&nbsp; Lublin, Poland
   </li>
 
