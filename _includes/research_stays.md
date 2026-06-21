@@ -5,7 +5,7 @@
 <ul style="margin:0 0 20px; list-style:none; padding-left:0;">
 
   <li style="margin-bottom:10px;">
-    <strong>May–Jun 2026</strong> &nbsp;·&nbsp; <em>Visiting Researcher</em><br>
+    <strong>May 2026</strong> &nbsp;·&nbsp; <em>Visiting Researcher</em><br>
     Reykjavik University &nbsp;·&nbsp; Reykjavik, Iceland
   </li>
 
@@ -39,6 +39,12 @@
     Seminar with Ehsan Karim &nbsp;·&nbsp; InStats
   </li>
 
+   <li style="margin-bottom:10px;">
+    <strong>Dec 2025</strong> &nbsp;·&nbsp;
+    <em>Digital Health</em><br>
+    Certificate of Completion &nbsp;·&nbsp; Harvard Online
+  </li> 
+
   <li style="margin-bottom:10px;">
     <strong>Jun 2025</strong> &nbsp;·&nbsp;
     <em>Professional Certificate in Sleep Data Analysis</em><br>
@@ -51,10 +57,6 @@
     Seminar &nbsp;·&nbsp; Braining / ERASMUS+ Cooperation Partnership &nbsp;·&nbsp; "Collaborative learning and innovative teaching for brain drug screening"
   </li>
 
-  <li style="margin-bottom:10px;">
-    <strong>2024</strong> &nbsp;·&nbsp;
-    <em>Digital Health</em><br>
-    Certificate of Completion &nbsp;·&nbsp; Harvard Online
-  </li>
+
 
 </ul>
