@@ -98,6 +98,7 @@
       <!-- Tab navigation -->
 <div class="tab-nav">
   <button class="tab-btn active" onclick="showTab('main', this)">About</button>
+  <button class="tab-btn" onclick="showTab('projects', this)">Research projects</button>
   <button class="tab-btn" onclick="showTab('conferences', this)">Conferences</button>
   <button class="tab-btn" onclick="showTab('teaching', this)">Teaching</button>
   <button class="tab-btn" onclick="showTab('stays', this)">Research stays &amp; training</button>
@@ -107,6 +108,10 @@
   {{ content }}
 </div>
 
+<div id="tab-projects" class="tab-content" style="display:none;">
+  {% include research_projects.md %}
+</div>
+        
 <div id="tab-conferences" class="tab-content" style="display:none;">
   {% include conferences.md %}
 </div>
