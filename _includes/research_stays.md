@@ -1,5 +1,5 @@
-## Research Stays and Scientific Training
+<h2 id="research-stays">Research Stays and Scientific Training</h2>
 
 <ul style="margin:0 0 20px;">
-  <li>Add your research stays and training here (institutions, dates, topics)</li>
+  >Add your research stays and training here (institutions, dates, topics)</li>
 </ul>
