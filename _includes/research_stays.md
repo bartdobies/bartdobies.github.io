@@ -2,32 +2,7 @@
 
 <h4 style="margin:0 10px 0; font-size:1.05rem;">Research stays &amp; internships</h4>
 
-<ul style="margin:0 0 20px; list-style:none; padding-left:0;">
 
-  >
-    <strong>May–Jun 2026</strong> &nbsp;·&nbsp; <em>Visiting Researcher</em><br>
-    Reykjavik University &nbsp;·&nbsp; Reykjavik, Iceland
-  </li>
-
-  >
-    <strong>Aug 2025</strong> &nbsp;·&nbsp;
-    <em>Participant – Leibniz ScienceCampus Digital Public Health Summer School</em><br>
-    "Designing, Evaluating, and Implementing Digital Public Health Interventions" &nbsp;·&nbsp; Bremen, Germany
-  </li>
-
-  >
-    <strong>Jun 2025</strong> &nbsp;·&nbsp;
-    <em>Participant – Una Europa One Health Summer School</em><br>
-    "Bridging Disciplines for One Health Solutions" &nbsp;·&nbsp; Free University of Berlin, Germany
-  </li>
-
-  >
-    <strong>Sep 2019</strong> &nbsp;·&nbsp;
-    <em>Internship – Project Manager</em><br>
-    Warsaw Stock Exchange &nbsp;·&nbsp; Warsaw, Poland
-  </li>
-
-</ul>
 
 <h4 style="margin:0 10px 0; font-size:1.05rem;">Certificates &amp; Courses</h4>
 
