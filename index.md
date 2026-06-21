@@ -17,8 +17,3 @@ I received my M.Sc. degree in Statistics from Humboldt University of Berlin, spe
 - **Biostatistics:** longitudinal data analysis, missing data methods, cluster analysis, explanatory modeling, causal inference
 - **Electronic Health Records:** patient pathways, clinical phenotyping, healthcare utilization patterns
 
-{% include_relative _includes/conferences.md %}
-
-{% include_relative _includes/teaching.md %}
-
-{% include_relative _includes/research_stays.md %}
