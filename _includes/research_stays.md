@@ -1,8 +1,8 @@
 <h2 id="research-stays">Research stays and scientific training</h2>
 
-<h4 style="margin:0 10px 0;">Research Stays &amp; Internships</h4>
+<h4 style="margin:0 10px 0;">Research stays &amp; internships</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 20px; list-style:none; padding-left:0;">
 
   >
     <strong>May–Jun 2026</strong> &nbsp;·&nbsp;
@@ -32,7 +32,7 @@
 
 <h4 style="margin:0 10px 0;">Certificates &amp; Courses</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 20px; list-style:none; padding-left:0;">
 
   >
     <strong>Feb 2026</strong> &nbsp;·&nbsp;
