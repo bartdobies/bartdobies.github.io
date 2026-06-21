@@ -1,6 +1,6 @@
 <h2 id="research-stays">Research stays and scientific training</h2>
 
-<h4 style="margin:0 10px 0;">Research stays &amp; internships</h4>
+<h4 style="margin:0 10px 0; font-size:1.05rem;">Research stays &amp; internships</h4>
 
 <ul style="margin:0 0 20px; list-style:none; padding-left:0;">
 
@@ -30,7 +30,7 @@
 
 </ul>
 
-<h4 style="margin:0 10px 0;">Certificates &amp; Courses</h4>
+<h4 style="margin:0 10px 0; font-size:1.05rem;">Certificates &amp; Courses</h4>
 
 <ul style="margin:0 0 20px; list-style:none; padding-left:0;">
 
