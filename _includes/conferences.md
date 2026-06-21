@@ -4,7 +4,7 @@
 
   <li style="margin-bottom:10px;">
     <strong>Jun 2026</strong> &nbsp;·&nbsp;
-    <em>Rest-Activity Rhythms and Depression Symptoms: Identifying Risk Groups Using Wearable-Derived Metrics in NHANES 2011–2014</em><br>
+    <em>Mapping digital phenotypes associated with depressive symptoms: a scoping review of wearable-derived sleep and rest-activity rhythms</em><br>
     4th International Digital Mental Health and Wellbeing Conference &nbsp;·&nbsp; University of Glasgow, Scotland
   </li>
 
