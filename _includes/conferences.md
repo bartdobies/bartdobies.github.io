@@ -9,6 +9,13 @@
   </li>
 
   <li style="margin-bottom:10px;">
+    <strong>Sep 2025</strong> &nbsp;·&nbsp;
+    <em>Zdrowie i dostęp do systemu opieki zdrowotnej wśród migrantów ekonomicznych i przymusowych z Ukrainy w Polsce</em>
+    <small style="color:#888;"> (Health and access to the healthcare system among economic and forced migrants from Ukraine in Poland)</small><br>
+    XIV Conference of the Committee for Migration Research, Polish Academy of Sciences &nbsp;·&nbsp; Lublin, Poland
+  </li>
+
+  <li style="margin-bottom:10px;">
     <strong>Jun 2025</strong> &nbsp;·&nbsp;
     <em>Rest-Activity Rhythms and Depression Symptoms: Identifying Risk Groups Using Wearable-Derived Metrics in NHANES 2011–2014</em><br>
     3rd International Digital Mental Health and Wellbeing Conference &nbsp;·&nbsp; University of Granada, Spain
